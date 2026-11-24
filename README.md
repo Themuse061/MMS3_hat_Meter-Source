@@ -1,5 +1,5 @@
 # MMS3 Hat Meter Source
-![Zdjęcie Hat'a](Hat_photo.png)
+![MMS3_hat_Meter-Source](MMS3_hat_Meter-Source.png)
 
 ## Sekcja 1: Dokumentacja Hat'a
 

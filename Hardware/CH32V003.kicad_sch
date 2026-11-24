@@ -5533,6 +5533,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 128.27 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6222c114-4698-4982-9469-9a93751e90ac")
 		)
@@ -5793,6 +5804,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 163.83 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 163.83 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -6336,6 +6358,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 142.24 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8153e61-6440-4dc9-a4a7-7ad44483c0a8")
 		)
@@ -6672,6 +6705,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 186.69 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 186.69 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -7050,6 +7094,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 128.27 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 128.27 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7491,6 +7546,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 69.85 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 69.85 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8008,6 +8074,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 196.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b1435c1e-c26f-408e-b13e-01ae7a5a341f")
 		)
@@ -8376,6 +8453,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 250.19 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 250.19 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8777,6 +8865,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 173.99 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ca56f423-9141-4f03-ae0d-dc09da5044e2")
 		)
@@ -9075,6 +9174,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 250.19 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 250.19 73.66 0)
 			(hide yes)
 			(show_name no)
