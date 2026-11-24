@@ -948,7 +948,7 @@
 			(justify left bottom)
 		)
 		(uuid "f2b4e0fb-1834-42c9-aa70-43fdfbacf699")
-		(property "Net Class" "50V"
+		(property "Netclass" "50V"
 			(at 150.876 82.042 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -982,7 +982,7 @@
 			(justify left bottom)
 		)
 		(uuid "f3e92d2f-8c7f-4901-8fe1-be9a5f8a330b")
-		(property "Net Class" "50V"
+		(property "Netclass" "50V"
 			(at 175.006 80.772 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1203,6 +1203,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 115.57 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f9e86f0-f5a3-42bc-a546-1752b980d17c")
 		)
@@ -1405,6 +1416,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 140.97 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 140.97 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1838,6 +1860,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 167.64 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 167.64 86.36 90)
 			(hide yes)
 			(show_name no)

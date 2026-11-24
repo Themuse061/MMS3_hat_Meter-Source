@@ -1559,6 +1559,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 139.7 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "0c0adb12-3fe9-4035-9ab7-f0d60c0be2d8")
 		)
@@ -2080,6 +2091,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 176.53 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 176.53 60.96 0)
 			(hide yes)
 			(show_name no)

@@ -47,6 +47,7 @@ rescue-backup/
 
 # Fabrication outputs (JLCPCB plugin, Interactive HTML BOM)
 **/jlcpcb/
+**/production_files/
 **/bom/
 
 # Local project settings

@@ -76,80 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|109502477|115047121|85a64697-8b6a-4f2d-a830-8e85c2218bc5|358bc03b-81dd-4931-a4d9-179c2e8217d7",
-          "clearance on footprint"
-        ],
-        [
-          "clearance|110772477|114357121|5075984f-4504-4321-b354-4b88a65328ff|85a64697-8b6a-4f2d-a830-8e85c2218bc5",
-          ""
-        ],
-        [
-          "clearance|110772477|115047121|358bc03b-81dd-4931-a4d9-179c2e8217d7|8d58974e-66b9-4875-b3a1-57e3d2b7f819",
-          ""
-        ],
-        [
-          "clearance|110772477|115047121|358bc03b-81dd-4931-a4d9-179c2e8217d7|aa47edbb-65f2-4aa2-9e77-b19e5fe80ba5",
-          ""
-        ],
-        [
-          "clearance|138840000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|9f6235d7-0b17-4af1-86a4-cde802cc30a6",
-          ""
-        ],
-        [
-          "clearance|138840000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|b21a07d6-bd6c-4cca-845f-821651248336",
-          ""
-        ],
-        [
-          "clearance|138840000|129835000|de1aac8d-ec5a-401a-8c7b-c689170b51f2|b21a07d6-bd6c-4cca-845f-821651248336",
-          ""
-        ],
-        [
-          "clearance|138840000|131105000|537b66ef-e576-4f68-aef8-77e37ce228ee|b21a07d6-bd6c-4cca-845f-821651248336",
-          ""
-        ],
-        [
-          "clearance|140040000|128575000|423d2f9f-b031-4224-bf8e-84f206828658|7d47f6fd-d859-46bb-96b9-72a63e050bb3",
-          ""
-        ],
-        [
-          "clearance|140040000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|c0b684e2-9ee2-4971-b6be-33a346acd730",
-          ""
-        ],
-        [
-          "clearance|93502477|114357121|1a6e5901-9eb8-4646-b3be-d3f2fed0a9c6|e149b750-2f27-4ca0-802e-aa8239861097",
-          ""
-        ],
-        [
-          "clearance|93502477|115047121|fa5e291f-3889-4d86-b6df-c0dbfdad6b04|e149b750-2f27-4ca0-802e-aa8239861097",
-          ""
-        ],
-        [
-          "clearance|94772477|114357121|9b7ea899-8a57-4fcc-a59e-9c728e0b1443|fa5e291f-3889-4d86-b6df-c0dbfdad6b04",
-          ""
-        ],
-        [
-          "clearance|94772477|115047121|102d23fd-596d-4488-b057-7701e1063a25|e149b750-2f27-4ca0-802e-aa8239861097",
-          ""
-        ],
-        [
-          "courtyards_overlap|102695000|106975000|05f8fca3-41e1-4682-a8c5-fc99e7243c39|ba36d59b-e179-4ec4-8fa6-ca0023657a5a",
-          "We'll manage"
-        ],
-        [
-          "starved_thermal|116570000|93038272|92633035-f4ea-489e-83c4-67a33e47662f|e6bba1f3-7345-4d0f-9ad9-ff1ea2c40e72|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|151520000|127200000|92633035-f4ea-489e-83c4-67a33e47662f|c501b8dc-e04e-424a-9510-3c0934f00638|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|160360000|113180000|92633035-f4ea-489e-83c4-67a33e47662f|032c0145-4f65-409b-a8e0-156fff12a341|F.Cu",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -251,6 +178,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -262,6 +190,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -273,6 +202,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -562,6 +492,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -689,28 +620,13 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {},
     "netclass_assignments": {
-      "/Power Connector/VIN_BRD": [
+      "/Power Connector/VIN_Chainbus": [
         "50V"
-      ],
-      "BRD_VIN": [
-        "50V "
-      ],
-      "Net-(D4-K)": [
-        "50V "
-      ],
-      "Net-(J8-Pin_1)": [
-        "50V "
-      ],
-      "U_reg": [
-        "50V "
       ],
       "VIN_CHAINBUS": [
         "50V"
-      ],
-      "Vin": [
-        "50V "
       ]
     },
     "netclass_patterns": [
@@ -1334,11 +1250,11 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "0402",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
+      "sort_asc": false,
       "sort_field": "Footprint"
     },
     "bus_aliases": {

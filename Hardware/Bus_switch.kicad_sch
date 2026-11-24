@@ -3792,6 +3792,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 275.59 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7affb93-e682-4057-8320-d6f86b1d9701")
 		)
@@ -4244,6 +4255,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 38.1 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 38.1 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -4788,6 +4810,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 243.84 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac83980e-c86c-4455-9ed4-18619a13a395")
 		)
@@ -5244,6 +5277,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 26.67 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7dd852a7-db00-43d3-9ef9-fd5b8fefb871")
 		)
@@ -5536,6 +5580,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 243.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 243.84 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -5914,6 +5969,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 128.27 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 128.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6450,6 +6516,17 @@
 				)
 			)
 		)
+		(property "Field4" ""
+			(at 149.86 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "6c85853c-d66a-4f1e-8cee-9921ab98f117")
 		)
@@ -6942,6 +7019,17 @@
 			)
 		)
 		(property "polarity" ""
+			(at 209.55 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field4" ""
 			(at 209.55 82.55 0)
 			(hide yes)
 			(show_name no)
